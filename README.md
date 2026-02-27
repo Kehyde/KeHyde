@@ -1,13 +1,4 @@
-<h2 align="left">Hey👋 My name is Ken and I'm a fullstack developer from Canada!</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeHyde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeHyde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<h2 align="left">Hey👋 My name is Ken and I'm a fullstack blockchain developer from Canada!</h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWxlMW5pd3ZuaXJmZmpnbWtudDNjMGVhdm1jNTh1MzNrMHQ0bXp5diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
